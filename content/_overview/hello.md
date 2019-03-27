@@ -1,5 +1,5 @@
 ---
-title: "Testing the title change 2"
+title: "Testing the title"
 ---
 
 This template project provides a basic structure to start your presidium documentation.
